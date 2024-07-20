@@ -19,7 +19,7 @@ Vite
 Installation
 To install and run the project locally, follow these steps:
 
-Clone the repository: https://github.com/abhinanditasingh/todo/tree/master
+Clone the repository: https://github.com/abhinanditasingh/todo/tree/master<br>
 Navigate to the project directory: cd todo
 Install the dependencies: npm install
 Start the development server: npm run dev
